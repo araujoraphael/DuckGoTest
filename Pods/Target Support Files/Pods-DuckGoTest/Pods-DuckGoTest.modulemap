@@ -1,0 +1,6 @@
+framework module Pods_DuckGoTest {
+  umbrella header "Pods-DuckGoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
